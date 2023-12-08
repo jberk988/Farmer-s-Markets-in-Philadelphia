@@ -1,5 +1,5 @@
 
-farmers=
+var farmers=
     {
 "type": "FeatureCollection",
 "name": "Farmers_Markets",
