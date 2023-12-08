@@ -1,7 +1,6 @@
 
 farmers=
     {
-        console.log("Fleeb");
 "type": "FeatureCollection",
 "name": "Farmers_Markets",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
